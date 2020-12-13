@@ -1,0 +1,8 @@
+#监听地址
+addr=:8000
+logPath=.\storage\
+mailUrl=http://localhost.com:8001/mail
+
+#需要发送的邮箱
+mailTo=jindaoyiwu@163.com,353597382@qq.com
+
