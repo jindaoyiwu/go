@@ -2,15 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7bdd9bc-434b-4257-adc2-48d43c957e5c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/geek/ch2/const/const_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/geek/ch2/fib/fib_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/geek/ch2/test/first_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/geek/ch3/string_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/geek/ch5/condition_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/go.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/go.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hepburn/logger/src/controller/LoggerController.go" beforeDir="false" afterPath="$PROJECT_DIR$/hepburn/logger/src/controller/LoggerController.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hepburn/logger/src/env" beforeDir="false" afterPath="$PROJECT_DIR$/hepburn/logger/src/env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hepburn/logger/src/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/hepburn/logger/src/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hepburn/logger/src/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/hepburn/logger/src/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hepburn/logger/src/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/hepburn/logger/src/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hepburn/logger/src/service/env.go" beforeDir="false" afterPath="$PROJECT_DIR$/hepburn/logger/src/service/env.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hepburn/logger/src/service/logger.go" beforeDir="false" afterPath="$PROJECT_DIR$/hepburn/logger/src/service/logger.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hepburn/logger/src/storage/2020-03-25zap.log" beforeDir="false" afterPath="$PROJECT_DIR$/hepburn/logger/src/storage/2020-03-25zap.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hepburn/mail/src/controller/MailController.go" beforeDir="false" afterPath="$PROJECT_DIR$/hepburn/mail/src/controller/MailController.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hepburn/mail/src/env" beforeDir="false" afterPath="$PROJECT_DIR$/hepburn/mail/src/env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hepburn/mail/src/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/hepburn/mail/src/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hepburn/mail/src/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/hepburn/mail/src/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hepburn/mail/src/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/hepburn/mail/src/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hepburn/mail/src/service/Mail.go" beforeDir="false" afterPath="$PROJECT_DIR$/hepburn/mail/src/service/Mail.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hepburn/mail/src/service/env.go" beforeDir="false" afterPath="$PROJECT_DIR$/hepburn/mail/src/service/env.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hepburn/mail/src/service/helper.go" beforeDir="false" afterPath="$PROJECT_DIR$/hepburn/mail/src/service/helper.go" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +33,7 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GOROOT" path="C:\Go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -42,15 +52,32 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\work\lang\go" />
       <recent name="$PROJECT_DIR$/src/geek/ch1" />
     </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager" selected="Go Test.TestMutiCase in condition_test.go">
     <configuration name="TestIf in condition_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -115,6 +142,22 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
   </component>
   <component name="WindowStateProjectService">
     <state width="1358" height="203" key="GridCell.Tab.0.bottom" timestamp="1607859238517">
