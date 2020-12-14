@@ -1,7 +1,0 @@
-#地址
-addr=:8001
-#邮箱配置
-mailFrom=353597382@qq.com
-mailPass=353597382@qq.com
-mailHost=smtp@qq.com
-mailPort=465
